@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**44aayush/44aayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I'm Aayush
 
 - 🔭 I’m currently working on Web Development using Angular
 - 🌱 I’m currently learning Ethical Hacking
