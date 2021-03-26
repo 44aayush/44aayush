@@ -9,4 +9,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44aayush)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Aayush's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=k44aayush)](https://github.com/anuraghazra/github-readme-stats)
