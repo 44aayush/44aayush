@@ -13,8 +13,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go         2 hrs 27 mins   ███████████████████████▓░   94.95 % 
-Markdown   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Go         2 hrs 27 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.95 % 
+Markdown   7 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.86 % 
 ```
 <!--END_SECTION:waka-->
 
