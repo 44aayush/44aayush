@@ -9,3 +9,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44aayush)](https://github.com/anuraghazra/github-readme-stats)
 
+-------------------------
+
+<!--START_SECTION:waka-->
+```text
+Python
+Golang
+C
+Flutter
+HTML
+CSS
+YAML
+JS
+TS
+```
+<!--END_SECTION:waka-->
+
+-------------------------
+
