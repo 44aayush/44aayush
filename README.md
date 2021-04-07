@@ -12,17 +12,6 @@
 -------------------------
 
 <!--START_SECTION:waka-->
-```text
-Python
-Golang
-C
-Flutter
-HTML
-CSS
-YAML
-JS
-TS
-```
 <!--END_SECTION:waka-->
 
 -------------------------
