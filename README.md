@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=44aayush" alt="44aayush" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Aayush Kapoor</h1>
- - **Co-Founder, Mentor of ZeroDay Cybersecurity Club**
+ - Co-Founder, Mentor of ZeroDay Cybersecurity Club
  - 3rd year CSE Undergraduate
 
 <br>
