@@ -6,9 +6,9 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on lot of things including <strong>Decentralized app, Golang and Angular Web apps</strong>
+- 🔭 I’m currently working on lot of things including <strong>Decentralized app, Golang, Angular Web apps and CryptoZombie</strong>
 
-- 🌱 I’m currently learning **AWS, Hack The Box**
+- 🌱 I’m currently learning **AWS, CyberSecurity**
 
 - 🤔 My recently completed project is [CTF_Bot_Discord](https://github.com/44aayush/CTF_Bot_Discord)
 
