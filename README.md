@@ -1,13 +1,28 @@
-### Hi there 👋, I'm Aayush
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=44aayush" alt="44aayush" /> </p>
 
-- 🔭 I’m currently working on Web Development using MEAN
-- 🌱 I’m currently learning Ethical Hacking and web application security
-- 📫 How to reach me:
-  -:office: [LinkedIn] (https://www.linkedin.com/in/kapooraayush/)
+<h1 align="center">Hi there 👋, I'm Aayush Kapoor</h1>
 
-[![Aayush's github stats](https://github-readme-stats.vercel.app/api?username=44aayush&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44aayush)](https://github.com/anuraghazra/github-readme-stats)
+# Overview About Me:-
+
+- 🔭 I’m currently working on lot of things including <strong>Decentralized app, Golang and Angular Web apps</strong>
+
+- 🌱 I’m currently learning **AWS, Hack The Box**
+
+- 🤔 My recently completed project is [CTF_Bot_Discord](https://github.com/44aayush/CTF_Bot_Discord)
+
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/44aayush?tab=repositories)
+
+- 👯 I’m looking to collaborate on amazing [Flutter](https://flutter.dev/) and [Golang](https://pkg.go.dev/)
+
+- 💬 Ask me about anything, I'm up for a chat
+
+- 📫 Reach out to me on [kapooraayush](https://www.linkedin.com/in/kapooraayush/) or **k44aayush@gmail.com**
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44aayush&layout=compact&hide=html&theme=radical" alt="44aayush" />
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=44aayush&show_icons=true&theme=radical&count_private=true" alt="44aayush" />
 
 -------------------------
 
