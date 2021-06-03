@@ -24,15 +24,15 @@
 
 ### Tech I work with 🔨
 <p>
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/flutter.png" alt="flutter" height="25" width="30"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/firebase.png" alt="fb" height="30" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/node.png" alt="node" height="25" width="30"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/js.png" alt="js" height="25" width="30"/> &nbsp;
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/ts.png" alt="ts" height="25" width="30"/> &nbsp;  
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/k8s.png" alt="k8s" height="25" width="30"/>&nbsp;&nbsp;    
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/mongo.jpg" alt="mongo" height="25" width="30"/> &nbsp;   
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/postgres.png" alt="postgres" height="25" width="30"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/dynamodb.png" alt="dynamodb" height="30" width="30"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/c.png" alt="c" height="25" width="30"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/python.png" alt="python" height="30" width="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/flutter.png" alt="flutter" height="25" width="30"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/js.png" alt="js" height="25" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/ts.png" alt="ts" height="25" width="30"/> &nbsp;  
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/angular.png" alt="angular" height="25" width="30"/>&nbsp;&nbsp;    
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/mongodb.jpg" alt="mongo" height="25" width="30"/> &nbsp;   
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/nodejs.png" alt="node" height="25" width="30"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/aws.png" alt="aws" height="30" width="30"/> &nbsp; 
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44aayush&layout=compact&hide=html&theme=radical" alt="44aayush" />
