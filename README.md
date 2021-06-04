@@ -24,14 +24,14 @@
 
 ### Tech I work with 🔨
 <p>
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/c.png" alt="c" height="50" width="50"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/python.png" alt="python" height="50" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/flutter.png" alt="flutter" height="50" width="50"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/js.png" alt="js" height="50" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/ts.png" alt="ts" height="50" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/go.png" alt="go" height="50" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/c.png" alt="c" height="50" width="70"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/python.png" alt="python" height="70" width="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/flutter.png" alt="flutter" height="70" width="50"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/js.png" alt="js" height="50" width="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/ts.png" alt="ts" height="50" width="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/go.png" alt="go" height="50" width="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/angular.png" alt="angular" height="50" width="70"/>&nbsp;
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/firebase.png" alt="firebase" height="50" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/firebase.png" alt="firebase" height="50" width="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/mysql.png" alt="mysql" height="50" width="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/mongodb.png" alt="mongo" height="50" width="70"/> &nbsp;   
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/nodejs.png" alt="node" height="50" width="80"/> &nbsp; 
