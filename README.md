@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/js.png" alt="js" height="50" width="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/ts.png" alt="ts" height="50" width="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/go.png" alt="go" height="50" width="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/angular.png" alt="angular" height="50" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/angular.png" alt="angular" height="50" width="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/firebase.png" alt="firebase" height="50" width="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/mysql.png" alt="mysql" height="50" width="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/44aayush/44aayush/master/assets/mongodb.png" alt="mongo" height="50" width="70"/> &nbsp;   
