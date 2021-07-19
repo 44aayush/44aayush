@@ -48,8 +48,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart       37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.40 % 
-Python     31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
