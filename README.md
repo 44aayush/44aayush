@@ -8,7 +8,7 @@
 
 ### Overview About Me:-
 
-- 🔭 I’m currently working on lot of things including <strong>Decentralized app, Golang, Angular Web apps and CryptoZombie</strong>
+- 🔭 I’m currently working on lot of things including <strong>Golang, Flutter Web apps</strong>
 
 - 🌱 I’m currently learning **AWS, CyberSecurity**
 
